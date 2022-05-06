@@ -1,0 +1,12 @@
+{
+    "checkQuery": "/Users/sadamhussein/PycharmProjects/FileWork_mac/ExOp/File1.txt",
+    "fileList": [
+        "/Users/sadamhussein/PycharmProjects/FileWork_mac/ExOp/File1.txt",
+        "/Users/sadamhussein/PycharmProjects/FileWork_mac/ExOp/File2.txt",
+        "/Users/sadamhussein/PycharmProjects/FileWork_mac/ExOp/File3.txt"
+    ],
+    "Radian Values": {
+        "/Users/sadamhussein/PycharmProjects/FileWork_mac/ExOp/File2.txt": 1.277953555066321,
+        "/Users/sadamhussein/PycharmProjects/FileWork_mac/ExOp/File3.txt": 1.3096389158918722
+    }
+}

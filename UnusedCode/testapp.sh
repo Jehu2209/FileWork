@@ -1,0 +1,1 @@
+/Users/sadamhussein/.local/share/virtualenvs/FileWork_mac-ASN18jpA/bin/python /Users/sadamhussein/PycharmProjects/FileWork_mac/simpGUI.py
